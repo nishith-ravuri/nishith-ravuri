@@ -16,6 +16,5 @@ I'm studying 2<sup>nd</sup> year **Mechtronics and Robotics Engineering** 🤖 (
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge)
 
 ### 📖 More About Me
-- 🔭 Learning Reinforcement Learning (RL) techniques
-- I love to build Robots
+- 🔭 Learning Reinforcement Learning (RL) techniques to enable autonomous robots perform complex tasks
 - 📝 See my learning notes [here]().
