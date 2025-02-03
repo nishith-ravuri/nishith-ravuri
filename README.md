@@ -4,11 +4,12 @@ I'm studying 2<sup>nd</sup> year **Mechtronics and Robotics Engineering** 🤖 (
 
 <a href="https://smithengineering.queensu.ca/mre/about/index.html" target="_blank"><img src="https://www.queensu.ca/artsci_online/themes/custom/queensu_artsci_online/img/logo.png" width="15%" height="15%" /></a>
 
-### 📫 How to reach me
+#### 📫 How to reach me
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nishith-ravuri-07b622283/)
+[<img src="https://img.icons8.com/color/48/000000/github.png"  width="3.5%"/>](https://github.com/Nishith-Ravuri)
 
-### 👨🏻‍💻 What I know
+#### 👨🏻‍💻 What I know
 ![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=for-the-badge)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![Altium Designer Badge](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=fff&style=for-the-badge)
